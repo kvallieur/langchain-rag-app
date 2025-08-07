@@ -16,6 +16,20 @@ A production-ready Question-Answering system built using **Retrieval-Augmented G
 
 ---
 
+## 🎥 Demo
+
+![LangChain RAG App Demo](./demo/langchain-rag-app.gif)
+
+**[▶️ Watch Full Demo Video](./demo/langchain-rag-app-demo.mp4)**
+
+The demo showcases:
+- Document upload (PDF/DOCX/HTML)
+- Real-time question answering with context retrieval
+- Session-based conversation memory
+- Document management (list/delete)
+
+---
+
 ## 🏗️ Architecture Overview
 
 ```
