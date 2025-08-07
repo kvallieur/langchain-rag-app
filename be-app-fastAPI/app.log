@@ -1,0 +1,147 @@
+INFO:root:Received query: Who is Aurora with session_id: None using model: ModelName.GPT4_O_MINI
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated response: Aurora can refer to several different things depending on the context:
+
+1. **Mythology**: In Roman mythology, Aurora is the goddess of the dawn, equivalent to the Greek goddess Eos.
+
+2. **Natural Phenomenon**: The aurora, often referred to as the aurora borealis (Northern Lights) or aurora australis (Southern Lights), is a natural light display predominantly seen in high-latitude regions around the Arctic and Antarctic.
+
+3. **Music**: Aurora Aksnes, known simply as Aurora, is a Norwegian singer-songwriter known for her ethereal music and unique vocal style.
+
+4. **Places**: Aurora is also the name of several cities and towns around the world, including Aurora, Colorado, and Aurora, Illinois, in the United States.
+
+5. **Film and Literature**: Aurora may refer to characters in various films, books, or other media.
+
+If you have a specific context in mind, please provide more details! for session_id: 30bc6c8f-f659-42c3-83a0-72b92d3f0056
+2025-08-06 12:28:25,172 - main - INFO - Application started successfully
+2025-08-06 12:28:45,976 - main - INFO - Application started successfully
+2025-08-06 12:28:53,326 - main - INFO - Application started successfully
+2025-08-06 12:29:42,292 - main - INFO - Application started successfully
+2025-08-06 12:29:53,082 - main - INFO - Application started successfully
+2025-08-06 12:30:00,246 - main - INFO - Application started successfully
+2025-08-06 12:39:18,284 - main - INFO - Application started successfully
+2025-08-06 12:39:24,883 - main - INFO - Application started successfully
+2025-08-06 12:39:32,524 - main - INFO - Application started successfully
+2025-08-06 12:39:58,401 - main - INFO - Application started successfully
+2025-08-06 12:40:30,011 - main - INFO - Application started successfully
+2025-08-06 12:40:50,693 - main - INFO - Application started successfully
+2025-08-06 12:40:56,573 - main - INFO - Application started successfully
+2025-08-06 12:41:29,917 - main - INFO - Application started successfully
+2025-08-06 12:41:36,809 - main - INFO - Application started successfully
+2025-08-06 12:41:43,219 - main - INFO - Application started successfully
+2025-08-06 12:41:58,798 - main - INFO - Application started successfully
+2025-08-06 12:42:05,019 - main - INFO - Application started successfully
+2025-08-06 12:42:27,035 - main - INFO - Application started successfully
+2025-08-06 12:42:32,981 - main - INFO - Application started successfully
+2025-08-06 12:42:39,586 - main - INFO - Application started successfully
+2025-08-06 12:42:45,379 - main - INFO - Application started successfully
+2025-08-06 12:42:51,575 - main - INFO - Application started successfully
+2025-08-06 12:42:57,459 - main - INFO - Application started successfully
+2025-08-06 12:43:04,350 - main - INFO - Application started successfully
+2025-08-06 12:43:11,359 - main - INFO - Application started successfully
+2025-08-06 12:43:20,443 - main - INFO - Application started successfully
+2025-08-06 12:43:27,120 - main - INFO - Application started successfully
+2025-08-06 12:43:39,702 - main - INFO - Application started successfully
+2025-08-06 12:43:56,446 - main - INFO - Application started successfully
+2025-08-06 12:44:16,441 - main - INFO - Application started successfully
+2025-08-06 12:44:26,411 - main - INFO - Application started successfully
+2025-08-06 12:55:40,940 - main - INFO - Received query: Who is Aurora with session_id: None using model: ModelName.GPT4_O
+2025-08-06 12:55:42,257 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 12:55:43,000 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2025-08-06 12:57:54,055 - main - INFO - Application started successfully
+2025-08-06 12:58:00,586 - main - INFO - Received query: Who is Aurora with session_id: None using model: ModelName.GPT4_1_MINI
+2025-08-06 12:58:01,535 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 12:58:04,625 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 12:58:04,643 - main - INFO - Generated response: Aurora can refer to different things depending on the context:
+
+1. **Aurora (Natural Phenomenon)**: A natural light display in the Earth's sky, predominantly seen in high-latitude regions around the Arctic and Antarctic. Known as the Northern Lights (Aurora Borealis) in the north and the Southern Lights (Aurora Australis) in the south.
+
+2. **Aurora (Given Name)**: A female given name of Latin origin meaning "dawn." It is used in various cultures and may refer to many individuals.
+
+3. **Aurora (Singer)**: Aurora Aksnes, known mononymously as Aurora, is a Norwegian singer-songwriter known for her ethereal voice and indie pop music.
+
+4. **Aurora (Mythology)**: In Roman mythology, Aurora is the goddess of dawn.
+
+If you specify the context, I can provide a more detailed answer. for session_id: c05c2204-ab2a-419a-a716-9d1db98cd22b
+2025-08-06 12:58:26,305 - main - INFO - Received query: What is Pineapple with session_id: c05c2204-ab2a-419a-a716-9d1db98cd22b using model: ModelName.GPT4_1_MINI
+2025-08-06 12:58:28,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 12:58:28,299 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 12:58:35,948 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 12:58:35,961 - main - INFO - Generated response: "Pineapple" can refer to:
+
+1. **Pineapple (Fruit)**: A tropical fruit with a rough, spiky exterior and sweet, juicy yellow flesh inside. It is native to South America and widely cultivated in tropical and subtropical regions. Pineapples are commonly eaten fresh, juiced, or used in cooking and baking.
+
+2. **Pineapple (Plant)**: The plant that produces the pineapple fruit, scientifically known as *Ananas comosus*. It is a tropical plant with a short, stocky stem and tough, waxy leaves.
+
+3. **Pineapple (Other Uses)**: The term "pineapple" can also be used in various other contexts, such as a nickname for certain objects or in popular culture.
+
+If you want information about a specific aspect of "pineapple," please let me know! for session_id: c05c2204-ab2a-419a-a716-9d1db98cd22b
+2025-08-06 14:22:57,485 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 14:23:41,282 - main - INFO - Application started successfully
+2025-08-06 14:23:43,689 - main - INFO - Application started successfully
+2025-08-06 14:23:49,067 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 14:23:54,543 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 15:04:54,278 - main - INFO - Inserted document record with file_id: 1 for file: pineapple_piphone_info.pdf
+2025-08-06 15:05:00,757 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:05:00,914 - main - INFO - Successfully uploaded and embedded document: pineapple_piphone_info.pdf with file_id: 1
+2025-08-06 15:05:00,918 - main - INFO - Removed temporary file: ./temp/pineapple_piphone_info.pdf
+2025-08-06 15:05:00,947 - main - INFO - Retrieved 1 documents from the database
+2025-08-06 15:05:10,635 - main - INFO - Retrieved 1 documents from the database
+2025-08-06 15:05:14,995 - main - INFO - Retrieved 1 documents from the database
+2025-08-06 15:05:32,536 - main - INFO - Received query: what is pineapple with session_id: None using model: ModelName.GPT4_1_MINI
+2025-08-06 15:05:33,237 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:05:36,054 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:05:36,098 - main - INFO - Generated response: Pineapple Technologies is a fictional tech giant based in Redwood Valley, California. Founded in 1982 by Lana Swift, Igor Dusk, and Martina Vale, the company is known for its innovative products such as the Pi-Phone series, the NeuralPalm interface, the PineTab, and the PiOS quantum chip. Pineapple specializes in bold experiments in augmented reality and biometric AI, and its Pi-Phone, first released in 2009, features advanced technologies like shape-shifting displays, Emotion Recognition OS, pocket nuclear recharging, and Telepathy Sync. The company is led by CEO Aurora Finch since 2018 and manufactures its products with partners like RoboCore and SynthMaker Inc. in geosynchronous orbit facilities. The Pi-Phone accounts for over 60% of Pineapple's revenue. for session_id: adaecb02-e47b-48b6-91f3-bc270d23ed63
+2025-08-06 15:31:54,973 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 15:31:57,656 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 15:32:22,002 - main - INFO - Received query: what is pineapple with session_id: None using model: ModelName.GPT4_1_MINI
+2025-08-06 15:32:22,435 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:32:24,732 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:32:24,741 - main - INFO - Generated response: A pineapple is a tropical fruit known for its sweet and tangy flavor. It has a rough, spiky outer skin and a juicy, yellow interior. Pineapples are rich in vitamins, enzymes, and antioxidants, and they are commonly eaten fresh, juiced, or used in cooking and baking. The fruit grows on a plant called Ananas comosus, which is native to South America. for session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c
+2025-08-06 15:33:01,386 - main - INFO - Inserted document record with file_id: 2 for file: pineapple_company.docx
+2025-08-06 15:33:01,670 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:33:01,695 - main - INFO - Successfully uploaded and embedded document: pineapple_company.docx with file_id: 2
+2025-08-06 15:33:01,698 - main - INFO - Removed temporary file: ./temp/pineapple_company.docx
+2025-08-06 15:33:01,705 - main - INFO - Retrieved 1 documents from the database
+2025-08-06 15:33:14,752 - main - INFO - Received query: what is pineapple with session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c using model: ModelName.GPT4_1_MINI
+2025-08-06 15:33:18,522 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:33:19,129 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:33:20,747 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:33:20,760 - main - INFO - Generated response: Based on the provided context, Pineapple Technologies is a fictional tech giant based in Redwood Valley, California. It was founded in 1982 by Lana Swift, Igor Dusk, and Martina Vale. The company is known for its innovative products such as the Pi-Phone series, the NeuralPalm interface, the PineTab, and the PiOS quantum chip. Pineapple Technologies specializes in augmented reality and biometric AI, and its current CEO is Aurora Finch. for session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c
+2025-08-06 15:33:44,207 - main - INFO - Inserted document record with file_id: 3 for file: pineapple_piphone_info.pdf
+2025-08-06 15:33:44,964 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:33:44,992 - main - INFO - Successfully uploaded and embedded document: pineapple_piphone_info.pdf with file_id: 3
+2025-08-06 15:33:44,994 - main - INFO - Removed temporary file: ./temp/pineapple_piphone_info.pdf
+2025-08-06 15:33:45,028 - main - INFO - Retrieved 2 documents from the database
+2025-08-06 15:33:56,531 - main - INFO - Received query: tell me about piphone with session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c using model: ModelName.GPT4_1_MINI
+2025-08-06 15:33:57,834 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:33:58,132 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:34:00,233 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:34:00,243 - main - INFO - Generated response: The Pi-Phone is a flagship product series from Pineapple Technologies, first debuted in 2009. It introduced the world to the first shape-shifting display, showcasing the company's innovative approach to technology. Over the years, each iteration of the Pi-Phone has included advanced and fantastical features such as:
+
+- Emotion Recognition OS (2012)
+- Pocket nuclear recharging (2016)
+- Telepathy Sync (2025)
+
+The Pi-Phone is a major revenue driver for Pineapple Technologies, representing over 60% of the company's revenue. Annual sales peaked at 500 million units in 2023, largely due to its holographic gaming capabilities. There are also rumors of a sentient Pi-Phone model being developed. for session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c
+2025-08-06 15:36:37,164 - main - INFO - Retrieved 2 documents from the database
+2025-08-06 15:39:24,438 - main - INFO - Received query: when was it released with session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c using model: ModelName.GPT4_1_MINI
+2025-08-06 15:39:25,055 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:39:25,400 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:39:25,830 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:39:25,852 - main - INFO - Generated response: The Pi-Phone was first released in 2009. for session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c
+2025-08-06 15:39:38,722 - main - INFO - Received query: where is it located with session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c using model: ModelName.GPT4_1_MINI
+2025-08-06 15:39:39,536 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:39:39,950 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-06 15:39:40,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 15:39:40,805 - main - INFO - Generated response: Pineapple Technologies, the company that produces the Pi-Phone, is based in Redwood Valley, California. for session_id: 5336f9fe-b75b-47fb-b993-2ef8b1de627c
+2025-08-06 15:48:13,588 - main - INFO - Retrieved 2 documents from the database
+2025-08-06 15:48:29,624 - main - INFO - Retrieved 1 documents from the database
+2025-08-06 15:48:32,776 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 15:48:34,794 - main - INFO - Retrieved 0 documents from the database
+2025-08-06 16:27:58,767 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
