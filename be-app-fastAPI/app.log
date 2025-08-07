@@ -145,3 +145,101 @@ You can install "python-multipart" with:
 
 pip install python-multipart
 
+2025-08-07 10:58:44,206 - main - INFO - Retrieved 0 documents from the database
+2025-08-07 10:58:54,481 - main - INFO - Inserted document record with file_id: 4 for file: pineapple_company.docx
+2025-08-07 10:58:57,140 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 10:58:57,282 - main - INFO - Successfully uploaded and embedded document: pineapple_company.docx with file_id: 4
+2025-08-07 10:58:57,282 - main - INFO - Removed temporary file: ./temp/pineapple_company.docx
+2025-08-07 10:58:57,289 - main - INFO - Retrieved 1 documents from the database
+2025-08-07 10:59:10,280 - main - INFO - Inserted document record with file_id: 5 for file: pineapple_company.docx
+2025-08-07 10:59:10,905 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 10:59:10,930 - main - INFO - Successfully uploaded and embedded document: pineapple_company.docx with file_id: 5
+2025-08-07 10:59:10,940 - main - INFO - Removed temporary file: ./temp/pineapple_company.docx
+2025-08-07 10:59:10,950 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 10:59:15,703 - main - INFO - Inserted document record with file_id: 6 for file: pineapple_company.docx
+2025-08-07 10:59:15,939 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 10:59:15,963 - main - INFO - Successfully uploaded and embedded document: pineapple_company.docx with file_id: 6
+2025-08-07 10:59:15,964 - main - INFO - Removed temporary file: ./temp/pineapple_company.docx
+2025-08-07 10:59:15,994 - main - INFO - Retrieved 3 documents from the database
+2025-08-07 10:59:30,911 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 10:59:35,321 - main - INFO - Retrieved 1 documents from the database
+2025-08-07 10:59:36,589 - main - INFO - Retrieved 1 documents from the database
+2025-08-07 10:59:53,319 - main - INFO - Inserted document record with file_id: 7 for file: pineapple_piphone_info.pdf
+2025-08-07 10:59:56,278 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 10:59:56,301 - main - INFO - Successfully uploaded and embedded document: pineapple_piphone_info.pdf with file_id: 7
+2025-08-07 10:59:56,304 - main - INFO - Removed temporary file: ./temp/pineapple_piphone_info.pdf
+2025-08-07 10:59:56,317 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 10:59:58,493 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 11:00:17,271 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 11:00:18,402 - main - INFO - Inserted document record with file_id: 8 for file: piphone_history.docx
+2025-08-07 11:00:18,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:00:18,893 - main - INFO - Successfully uploaded and embedded document: piphone_history.docx with file_id: 8
+2025-08-07 11:00:18,897 - main - INFO - Removed temporary file: ./temp/piphone_history.docx
+2025-08-07 11:00:18,911 - main - INFO - Retrieved 3 documents from the database
+2025-08-07 11:00:20,231 - main - INFO - Retrieved 3 documents from the database
+2025-08-07 11:01:37,343 - main - INFO - Received query: who is aurora with session_id: None using model: ModelName.GPT4_1_MINI
+2025-08-07 11:01:38,211 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:01:39,124 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:01:39,147 - main - INFO - Generated response: Aurora Finch is the CEO of Pineapple Technologies. She took the helm in 2018 and has guided the company through a major holographic transition. for session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6
+2025-08-07 11:01:48,777 - main - INFO - Received query: where is it located with session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:01:50,061 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:01:50,728 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:01:51,345 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:01:51,353 - main - INFO - Generated response: Pineapple Technologies is located in Redwood Valley, California. for session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6
+2025-08-07 11:01:59,503 - main - INFO - Received query: what do they do with session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:02:00,476 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:02:00,881 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:02:03,362 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:02:03,391 - main - INFO - Generated response: Pineapple Technologies is a tech giant known for its innovations in consumer electronics and advanced technologies. They rose to fame with their Pi-Phone series, which features cutting-edge technologies like shape-shifting displays, Emotion Recognition OS, pocket nuclear recharging, and Telepathy Sync. The company is also renowned for its bold experiments in augmented reality and biometric AI. Additionally, they have developed products such as the NeuralPalm interface, the PineTab tablet, and the PiOS quantum chip. Pineapple Technologies is involved in manufacturing through partners located in geosynchronous orbit facilities. for session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6
+2025-08-07 11:02:16,161 - main - INFO - Received query: when was ir released with session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:02:16,966 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:02:17,286 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:02:17,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:02:17,946 - main - INFO - Generated response: The Pi-Phone was first released in 2009. for session_id: 97d01abe-4fe2-4ce8-9078-d6d7216af9a6
+2025-08-07 11:04:15,228 - main - INFO - Retrieved 3 documents from the database
+2025-08-07 11:04:20,436 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 11:04:21,867 - main - INFO - Retrieved 1 documents from the database
+2025-08-07 11:04:22,914 - main - INFO - Retrieved 0 documents from the database
+2025-08-07 11:04:25,284 - main - INFO - Retrieved 0 documents from the database
+2025-08-07 11:04:44,156 - main - INFO - Received query: what is pineapple with session_id: None using model: ModelName.GPT4_1_MINI
+2025-08-07 11:04:44,411 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:04:46,299 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:04:46,318 - main - INFO - Generated response: A pineapple is a tropical fruit known for its sweet and tangy flavor. It has a rough, spiky outer skin and a juicy, yellow interior. Pineapples are rich in vitamins, enzymes, and antioxidants, and they are commonly eaten fresh, juiced, or used in cooking and baking. The fruit grows on a plant called Ananas comosus, which is native to South America. for session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2
+2025-08-07 11:04:54,171 - main - INFO - Received query: who is aurora with session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:04:55,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:04:55,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:04:59,170 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:04:59,181 - main - INFO - Generated response: "Aurora" can refer to different things depending on the context:
+
+1. **Aurora (Natural Phenomenon):** The aurora, also known as the northern lights (aurora borealis) or southern lights (aurora australis), is a natural light display in the Earth's sky, typically seen in high-latitude regions around the Arctic and Antarctic. It is caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere.
+
+2. **Aurora (Singer):** Aurora Aksnes, known simply as Aurora, is a Norwegian singer-songwriter known for her ethereal voice and indie-pop music.
+
+3. **Aurora (Name):** Aurora is also a female given name of Latin origin, meaning "dawn."
+
+If you specify the context, I can provide a more detailed answer. for session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2
+2025-08-07 11:05:37,453 - main - INFO - Inserted document record with file_id: 9 for file: pineapple_company.docx
+2025-08-07 11:05:39,087 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:05:39,105 - main - INFO - Successfully uploaded and embedded document: pineapple_company.docx with file_id: 9
+2025-08-07 11:05:39,106 - main - INFO - Removed temporary file: ./temp/pineapple_company.docx
+2025-08-07 11:05:39,130 - main - INFO - Retrieved 1 documents from the database
+2025-08-07 11:05:46,694 - main - INFO - Inserted document record with file_id: 10 for file: piphone_history.docx
+2025-08-07 11:05:47,169 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:05:47,198 - main - INFO - Successfully uploaded and embedded document: piphone_history.docx with file_id: 10
+2025-08-07 11:05:47,199 - main - INFO - Removed temporary file: ./temp/piphone_history.docx
+2025-08-07 11:05:47,210 - main - INFO - Retrieved 2 documents from the database
+2025-08-07 11:05:57,779 - main - INFO - Inserted document record with file_id: 11 for file: pineapple_piphone_info.pdf
+2025-08-07 11:05:57,965 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:05:57,981 - main - INFO - Successfully uploaded and embedded document: pineapple_piphone_info.pdf with file_id: 11
+2025-08-07 11:05:57,982 - main - INFO - Removed temporary file: ./temp/pineapple_piphone_info.pdf
+2025-08-07 11:05:58,000 - main - INFO - Retrieved 3 documents from the database
+2025-08-07 11:06:08,593 - main - INFO - Received query: who is aurora with session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:06:09,071 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:06:09,323 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:06:10,024 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:06:10,034 - main - INFO - Generated response: Aurora Finch is the CEO of Pineapple Technologies. She took the helm in 2018 and has guided the company through a major holographic transition. for session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2
+2025-08-07 11:06:16,226 - main - INFO - Received query: what is pineapple with session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2 using model: ModelName.GPT4_1_MINI
+2025-08-07 11:06:16,628 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:06:16,824 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-08-07 11:06:18,779 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-07 11:06:18,790 - main - INFO - Generated response: Pineapple Technologies is a fictional tech giant based in Redwood Valley, California. Founded in 1982 by Lana Swift, Igor Dusk, and Martina Vale, the company gained fame with its Pi-Phone series. It is known for innovations such as the NeuralPalm interface (1995), the PineTab (2004), and the PiOS quantum chip (2022). Under CEO Aurora Finch, who took leadership in 2018, Pineapple Technologies has advanced in holographic technology and is renowned for its bold experiments in augmented reality and biometric AI. for session_id: d65e43b8-145b-4124-8e8d-21f8e39d0cf2
