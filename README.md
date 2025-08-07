@@ -167,6 +167,6 @@ Ideal for developers exploring **LangChain**, **RAG**, and **full-stack AI apps*
 
 ---
 
-## 🔗 Related Tags (for SEO)
+## 🔗 Related Tags
 
 `LangChain`, `RAG`, `LLM`, `FastAPI`, `Streamlit`, `ChromaDB`, `OpenAI`, `Python AI Project`, `AI Chatbot`, `Document Search`, `Semantic Search`, `Vector Store`, `GPT-4`
